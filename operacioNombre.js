@@ -14,9 +14,9 @@ alert(
 );
 
 if (resultado <= 15) {
-  alert(cantidadLetras, alert("La cuenta total es menor a 15"));
+  alert(cantidadLetras, alert("La cuenta total es menor a 15 caracteres"));
 } else {
   if (resultado >= 15) {
-    alert(cantidadLetras, alert("La cuenta total es mayor a 15"));
+    alert(cantidadLetras, alert("La cuenta total es mayor a 15 caracteres"));
   }
 };
